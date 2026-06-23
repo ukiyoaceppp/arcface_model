@@ -8,3 +8,4 @@ scipy
 pillow
 torch
 torchvision
+psycopg2-binary
